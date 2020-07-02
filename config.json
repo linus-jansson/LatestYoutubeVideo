@@ -1,0 +1,5 @@
+{
+    "channelId": "Paste the channel id here",
+    "discordSecret": "Discord bot Key",
+    "googleApiKey": "google api key here"
+}
