@@ -4,5 +4,6 @@ Simple discord.js bot that will fetch the latest video from selected channel id 
 ## Usage
 1. Run `npm i` in project directory
 2. change config.json to work with you discord secret and google api key
-3. Run `node app.js` in your project directory
-4. invite the bot to your server and type `*ltt` to get the latest video
+4. Change the channel id in app.js to where you want the bot to send the message
+5. invite the bot to your server
+6. Run `node app.js` in your project directory
